@@ -1,0 +1,10 @@
+AccountNumber	AccountType	AccountHolder		OpeningBalance
+11111			Current		Eric Dube			5604.23
+22222			Savings		Hugh Murrel			21000.43
+33333			Savings		Deshendran Moodley	2003.25
+44444			Current		Baird Ndovie		4589.46
+55555			Current		Jules Tapamo		1020.34
+66666			Savings		Barrie Kelly		523.56
+77777			Current		Satya Baboolal		8235.34
+88888			Current		Alan Sartori-Angus	789.20
+99999			Savings		Luke Vorster		103.20
